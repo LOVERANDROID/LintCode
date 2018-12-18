@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class ArraySum {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int sum = 0;
 		Scanner scanner1 = new Scanner(System.in);
 		int n = scanner1.nextInt();
